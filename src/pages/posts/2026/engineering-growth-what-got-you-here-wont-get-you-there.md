@@ -8,11 +8,11 @@ excerpt: >-
 template: "post"
 ---
 
-**You've mastered the technical skills. You ship quality code, you understand your stack, you can solve complex problems. You might even have "Senior" in your title.
+**You've mastered the technical skills. You ship quality code, you understand your stack, you can solve complex problems. You might even have "Senior" in your title.**
 
-But have you hit a ceiling on your impact?**
+**But have you hit a ceiling on your impact?**
 
-I was mentoring a Senior Engineer recently, and we were discussing their career growth. They were feeling stuck, and they weren't sure what to do next.  They had grown well, though in much of our conversation, the things that seemed to be holding them back were not technical.  I've seen this pattern many times during my career, it's one of the more common patterns, and it prevents many engineers from reaching their full potential.
+I was mentoring a Senior Engineer recently who was feeling stuck. They were technically brilliant - could architect complex systems, debug the gnarliest production issues, and ship quality code consistently. But their proposals kept getting deprioritised. Their ideas weren't landing in leadership meetings. They'd built an elegant microservices architecture that solved a scaling problem no customer had complained about. The things holding them back weren't technical at all.  I've seen this pattern many times during my career, it's one of the more common patterns, and it prevents many engineers from reaching their full potential.
 
 There are four dimensions that I routinely coach on, and they are just as important as the technical skills you've spent your career building. Investing in them will differentiate your career from good to great.
 
@@ -20,10 +20,10 @@ To be clear, this isn't about replacing your technical skills - it's about expan
 
 These four key dimensions are:
 
-1. The Theory - how you understand the systems of delivery, and the theory that contributes to that
-2. The Customer - who are you building for, what do they need, and how do you know you've built something that is actually useful
-3. The Business - you typically won't work in an infinite money machine, the context of your business matters in helping you understand how the business funds and sustains itself
-4. The Human Skills - an idea that cannot be communicated, or a frustration that boils over will hold you back
+1. **The Theory** - how you understand the systems of delivery, and the theory that contributes to that
+2. **The Customer** - who are you building for, what do they need, and how do you know you've built something that is actually useful
+3. **The Business** - you typically won't work in an infinite money machine, the context of your business matters in helping you understand how the business funds and sustains itself
+4. **The Human Skills** - an idea that cannot be communicated, or a frustration that boils over will hold you back
 
 Let's explore each dimension in detail in this article, and highlight why it's important.
 
@@ -33,20 +33,22 @@ Let's explore each dimension in detail in this article, and highlight why it's i
 * Have you ever wondered why your team ships slowly despite everyone working hard?
 * Have you ever optimized your part of the system only to realize it made no difference to delivery speed?
 
-These are all common frustrations that I've seen many engineers experience - I've felt these many times in my career.  
+These are all common frustrations that I've seen many engineers experience - I've felt these many times in my career. I've watched technically brilliant engineers optimize their code to perfection while their team's lead time stayed at three weeks. Why? Because they were optimizing locally in a globally constrained system. The code reviews were fast, but the deployment pipeline was slow. The deployment pipeline got fixed, but then product decisions became the bottleneck. You can't fix what you can't see.
 
-Understanding the theory of how software gets built will help you understand how to optimize your part of the system, and how to work with the process instead of against it.
+[Research from DORA](https://dora.dev/research/) (DevOps Research and Assessment) shows that elite-performing teams deploy 208 times more frequently than low performers, with lead times measured in hours instead of months. The difference isn't that elite performers are better coders - it's that they've optimized the system of delivery, not just individual components. They understand flow, they manage work-in-progress limits, they identify and address constraints. They've read the theory.
+
+Understanding systems thinking, flow, and constraints transforms how you approach improvement. You stop asking "how can I make my code faster?" and start asking "where is the bottleneck preventing us from delivering value?"
 
 ### What to Explore
 
-* *Systems thinking* - Because your code exists in a complex system where changing one part affects the whole
-* *Flow* - Because optimizing for continuous delivery beats optimizing for resource utilization
-* *Utilization and slack* - Because teams running at 100% capacity are actually slower, not faster
-* *Agile vs Agile* - Because the mindset matters more than the ceremonies
-* *Theory of constraints* - Because the system's performance is limited by its single biggest bottleneck
-* *Lean principles* - Because eliminating waste accelerates everything else
-* *DORA/Accelerate metrics* - Because you can't improve what you don't measure
-* *Team Topologies* - Because how you organize teams shapes how software gets built
+* **Systems thinking** - Because your code exists in a complex system where changing one part affects the whole
+* **Flow** - Because optimizing for continuous delivery beats optimizing for resource utilization
+* **Utilization and slack** - Because teams running at 100% capacity are actually slower, not faster
+* **Agile vs Agile** - Because the mindset matters more than the ceremonies
+* **Theory of constraints** - Because the system's performance is limited by its single biggest bottleneck
+* **Lean principles** - Because eliminating waste accelerates everything else
+* **DORA/Accelerate metrics** - Because you can't improve what you don't measure
+* **Team Topologies** - Because how you organize teams shapes how software gets built
 
 ### Resources
 
@@ -66,13 +68,15 @@ You are in good company.  According to the [Standish Group, 64% of features are 
 
 Building software is expensive, even in the age of AI where we can turn around software quickly.  You still need to understand your customer, what they'll pay for and ultimately use.  I always encourage teams to ask "Should we build this?" before "How do we build this?".
 
+CB Insights found that [42% of startups fail because they built something nobody wanted](https://www.cbinsights.com/research/startup-failure-reasons-top/). Think about that - nearly half of failed startups had the technical capability to build their product. They just built the wrong product. Even in established companies, how many features get built, deployed, and quietly forgotten because nobody validated the customer need first?
+
 ### What to Explore
 
-* *Product thinking* - Because engineers who understand the products of their company make better decisions on the 'what' and 'why' of their work.
-* *Customer centricity* - Because "if you build it, they will come" has never been true.  Understanding your customer, what they care about, and what problems they have will give you a superpower
-* *Impact and outcomes over outputs* - Because shipping features doesn't equal creating value
-* *Project to product mindset* - Because what you build isn't isolated to a 3 month delivery, it lives with the customer far longer - how are you optimising it, how are you investing in improvement?
-* *Jobs to be done* - Because customers don't want your shiny technical feature, they want their problem solved
+* **Product thinking** - Because engineers who understand the products of their company make better decisions on the 'what' and 'why' of their work.
+* **Customer centricity** - Because "if you build it, they will come" has never been true.  Understanding your customer, what they care about, and what problems they have will give you a superpower
+* **Impact and outcomes over outputs** - Because shipping features doesn't equal creating value
+* **Project to product mindset** - Because what you build isn't isolated to a 3 month delivery, it lives with the customer far longer - how are you optimising it, how are you investing in improvement?
+* **Jobs to be done** - Because customers don't want your shiny technical feature, they want their problem solved
 
 ### Resources
 
@@ -86,17 +90,19 @@ Building software is expensive, even in the age of AI where we can turn around s
 * Have you ever considered how the thing you build contributes to the success of the business beyond just 'being used by customers'?
 * Have you ever wondered how leadership makes decisions about what to fund?
 
-Understanding the business context will help you prioritize ruthlessly, and you can speak the language of leadership and influence strategy.  In startups/scaleups this becomes even more important, as your very existence could be on the line if money isn't invested well, and you don't build the right things.
+According to CB Insights research on why startups fail, 29% run out of cash and 42% build something nobody wants. Even in established companies, understanding runway, burn rate, and path to profitability determines everything. I've seen engineers advocate passionately for technical improvements without understanding whether the company has 6 months or 6 years of runway - that context changes what "important" means.
+
+When you understand the business model, you understand the constraints. You stop proposing architectures that require 12 months of investment when the company needs revenue in 6. You start asking "what's the fastest path to validate this with customers?" instead of "what's the most technically perfect solution?" You speak the language of the people who control the budget.
 
 ### What to Explore
-* *Business model fundamentals* - Because revenue, costs, and margins determine what you can build
-* *Runway and profitability* - Because understanding burn rate and path to profitability shapes every priority decision
-* *Market dynamics and competition* - Because what investors and leadership care about is market position, not features
-* *Product-market fit* - Because nothing else matters until you have it, and everything changes after
-* *Fundraising and investor mindset* - Because understanding what VCs look for in a Series A/B/C helps you understand what you're building toward
-* *Innovation and disruption patterns* - Because knowing whether you're a sustaining or disruptive innovation changes your strategy
-* *Unit economics* - Because this world is filled with acronyms - if you don't know your CAC, your EBITDA, your LTV, or your MRR, you could be missing out on the clarity of the 'why' behind what you do
-* *Growth stages and scaling challenges* - Because what works at 10 customers may not work at 100, at 1000, or more
+* **Business model fundamentals** - Because revenue, costs, and margins determine what you can build
+* **Runway and profitability** - Because understanding burn rate and path to profitability shapes every priority decision
+* **Market dynamics and competition** - Because what investors and leadership care about is market position, not features
+* **Product-market fit** - Because nothing else matters until you have it, and everything changes after
+* **Fundraising and investor mindset** - Because understanding what VCs look for in a Series A/B/C helps you understand what you're building toward
+* **Innovation and disruption patterns** - Because knowing whether you're a sustaining or disruptive innovation changes your strategy
+* **Unit economics** - If your CAC (Customer Acquisition Cost) exceeds your LTV (Lifetime Value), your business dies - regardless of how elegant your code is. Understanding metrics like MRR, churn, contribution margin, and payback period isn't optional if you want to understand why leadership prioritizes work the way they do.
+* **Growth stages and scaling challenges** - Because what works at 10 customers may not work at 100, at 1000, or more
 
 ### Resources
 
@@ -113,13 +119,19 @@ Understanding the business context will help you prioritize ruthlessly, and you 
 
 Your ideas are only as good as your ability to communicate them.  Your technical credibility gets you in the room; but it is your human skills that see your brilliant ideas funded and supported.  These skills should be considered amplifiers for all of the above - maximising on these will always serve you well in everything you do, not just your career.
 
+Google's [Project Aristotle](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/) studied 180+ teams over two years and found that psychological safety - not technical skill, not seniority, not co-location - was the strongest predictor of team performance. Teams where people felt safe to take risks, admit mistakes, and challenge ideas outperformed technically brilliant teams that couldn't have difficult conversations.
+
+I've watched brilliant technical proposals die not because they were wrong, but because the engineer couldn't navigate the conversation when challenged. I've seen teams grind to a halt because nobody could give direct feedback without causing offense. [Poor communication is expensive](https://www.shrm.org/resourcesandtools/hr-topics/behavioral-competencies/communication/pages/the-cost-of-poor-communications.aspx) - one study estimated that businesses with 100 employees spend 17 hours per week just clarifying previous communication, costing over $500,000 annually.
+
+Your technical credibility gets you in the room. But it's your ability to have crucial conversations, give radical candor, and create psychological safety that determines whether your ideas get funded, whether your team trusts you, and whether you can influence change beyond your immediate code.
+
 ### What To Explore
 
-* *Communication skills* - Because you will be guaranteed to be in high stakes conversations that are critical to navigate well
-* *Psychological Safety* - Because you routinely won't operate in a vacuum, your team environment is critical to success
-* *Emotional intelligence* - Because your amygdala has no place in the office.  Understanding and managing emotions (yours and others') is a superpower
-* *Empathy* - Because seeing from another's perspective transforms how you influence and collaborate
-* *Vulnerability and courage* - Because being willing to be wrong or uncertain builds trust and opens possibilities
+* **Communication skills** - Because you will be guaranteed to be in high stakes conversations that are critical to navigate well
+* **Psychological Safety** - Because you routinely won't operate in a vacuum, your team environment is critical to success
+* **Emotional intelligence** - Because your amygdala has no place in the office.  Understanding and managing emotions (yours and others') is a superpower
+* **Empathy** - Because seeing from another's perspective transforms how you influence and collaborate
+* **Vulnerability and courage** - Because being willing to be wrong or uncertain builds trust and opens possibilities
 
 ### Resources
 
