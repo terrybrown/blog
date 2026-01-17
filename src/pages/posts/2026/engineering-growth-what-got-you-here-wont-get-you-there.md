@@ -1,5 +1,5 @@
 ---
-title: "The Technical Skills That Got You Here Won't Get You Further"
+title: "The Technical Skills That Got You Here Won't Get You There"
 date: "2026-01-17"
 thumb_img_path: images/2026/2026-01-17.png 
 content_img_path: images/2026/2026-01-17.png
@@ -44,7 +44,7 @@ Understanding systems thinking, flow, and constraints transforms how you approac
 * **Systems thinking** - Because your code exists in a complex system where changing one part affects the whole
 * **Flow** - Because optimizing for continuous delivery beats optimizing for resource utilization
 * **Utilization and slack** - Because teams running at 100% capacity are actually slower, not faster
-* **Agile vs Agile** - Because the mindset matters more than the ceremonies
+* **agile vs Agile** - Because the mindset matters more than the ceremonies
 * **Theory of constraints** - Because the system's performance is limited by its single biggest bottleneck
 * **Lean principles** - Because eliminating waste accelerates everything else
 * **DORA/Accelerate metrics** - Because you can't improve what you don't measure
@@ -145,7 +145,7 @@ Your technical credibility gets you in the room. But it's your ability to have c
 
 Being technically great is an asset to any team, but mastering these dimensions? That makes you a force multiplier.  You don't just write better code - you help the entire team and organization deliver better outcomes. 
 
-Whether you're a mid-level engineer looking to grow, a senior aiming for staff+, or an architect wanting to maximize your influence - this template and these areas can help you amplify your journey.
+Whether you're a mid-level engineer looking to grow, a senior aiming for Staff+, or an architect wanting to maximize your influence - this template and these areas can help you amplify your journey.
 
 **This is what separates engineers who contribute from engineers who transform teams.**
 
