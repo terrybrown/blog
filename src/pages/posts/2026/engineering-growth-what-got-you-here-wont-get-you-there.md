@@ -12,11 +12,11 @@ template: "post"
 
 **But have you hit a ceiling on your impact?**
 
-I was mentoring a Senior Engineer recently who was feeling stuck. They were technically brilliant - could architect complex systems, debug the gnarliest production issues, and ship quality code consistently. But their proposals kept getting deprioritised. Their ideas weren't landing in leadership meetings. They'd built an elegant microservices architecture that solved a scaling problem no customer had complained about. The things holding them back weren't technical at all.  I've seen this pattern many times during my career, it's one of the more common patterns, and it prevents many engineers from reaching their full potential.
+I was mentoring a Senior Engineer recently who was feeling stuck. They were technically brilliant - could architect complex systems, debug the gnarliest production issues, and ship quality code consistently. But they were struggling - their ideas were getting deprioritised, their work wasn't getting the recognition they felt they deserved, their ideas weren't landing in leadership meetings. They'd built an elegant architecture that solved a scaling problem that no customer had actually reported or complained about. The things holding them back weren't technical at all.  I've seen this pattern many times during my career, it's one of the more common patterns, and it prevents many engineers from reaching their full potential.
 
-There are four dimensions that I routinely coach on, and they are just as important as the technical skills you've spent your career building. Investing in them will differentiate your career from good to great.
+When I coach engineers, or leaders, there are routinely four dimensions that I hone in on, and they are just as important as the technical skills you've spent your career building. Investing in them will differentiate your career and transform it from good to great.
 
-To be clear, this isn't about replacing your technical skills - it's about expanding beyond them. Your technical foundation is still critical (and you should keep investing in it), but if that's all you do, you're capping your potential impact. You're leaving value on the table - for yourself, your team, and your organization.
+**To be clear, this isn't about replacing your technical skills** - it's about expanding beyond them. Your technical foundation is still critical (and you should keep investing in it), but if that's all you do, you're capping your potential impact. You're leaving value on the table - for yourself, your team, and your organization.
 
 These four key dimensions are:
 
@@ -33,9 +33,9 @@ Let's explore each dimension in detail in this article, and highlight why it's i
 * Have you ever wondered why your team ships slowly despite everyone working hard?
 * Have you ever optimized your part of the system only to realize it made no difference to delivery speed?
 
-These are all common frustrations that I've seen many engineers experience - I've felt these many times in my career. I've watched technically brilliant engineers optimize their code to perfection while their team's lead time stayed at three weeks. Why? Because they were optimizing locally in a globally constrained system. The code reviews were fast, but the deployment pipeline was slow. The deployment pipeline got fixed, but then product decisions became the bottleneck. You can't fix what you can't see.
+These are all common frustrations that I've seen many engineers experience - I've felt these many times in my career. I've watched technically brilliant engineers optimize their code to perfection while their team's lead time stayed uncomfortably long. Why? Because they were optimizing locally in a globally constrained system. The code reviews were fast, but the deployment pipeline was slow. The deployment pipeline got fixed, but then product decisions became the bottleneck. You can't fix what you can't see.
 
-[Research from DORA](https://dora.dev/research/) (DevOps Research and Assessment) shows that elite-performing teams deploy 208 times more frequently than low performers, with lead times measured in hours instead of months. The difference isn't that elite performers are better coders - it's that they've optimized the system of delivery, not just individual components. They understand flow, they manage work-in-progress limits, they identify and address constraints. They've read the theory.
+[Research from DORA](https://dora.dev/research/) (DevOps Research and Assessment) shows that elite-performing teams deploy 208 times more frequently than low performers, with lead times measured in hours instead of days or weeks. The difference isn't that elite performers are better coders - it's that they've **optimized the system of delivery**, not just individual components. They understand flow, they manage work-in-progress limits, they identify and address constraints. They've read the theory.
 
 Understanding systems thinking, flow, and constraints transforms how you approach improvement. You stop asking "how can I make my code faster?" and start asking "where is the bottleneck preventing us from delivering value?"
 
@@ -64,7 +64,7 @@ Understanding systems thinking, flow, and constraints transforms how you approac
 * Have you ever shipped a feature only to realize you solved the wrong problem?
 * Have you ever struggled to know why you were working on something, when it didn't feel like the most important thing?
 
-You are in good company.  According to the [Standish Group, 64% of features are rarely or never used](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used).  How much of what you deliver has actual value to your customers and your company? How much is just noise? 
+You're in good company.  According to the [Standish Group, 64% of features are rarely or never used](https://www.mountaingoatsoftware.com/blog/are-64-of-features-really-rarely-or-never-used).  How much of what you deliver has actual value to your customers and your company? How much is just noise? 
 
 Building software is expensive, even in the age of AI where we can turn around software quickly.  You still need to understand your customer, what they'll pay for and ultimately use.  I always encourage teams to ask "Should we build this?" before "How do we build this?".
 
@@ -90,7 +90,7 @@ CB Insights found that [42% of startups fail because they built something nobody
 * Have you ever considered how the thing you build contributes to the success of the business beyond just 'being used by customers'?
 * Have you ever wondered how leadership makes decisions about what to fund?
 
-According to CB Insights research on why startups fail, 29% run out of cash and 42% build something nobody wants. Even in established companies, understanding runway, burn rate, and path to profitability determines everything. I've seen engineers advocate passionately for technical improvements without understanding whether the company has 6 months or 6 years of runway - that context changes what "important" means.
+According to CB Insights research on why startups fail, 29% run out of cash and 42% build something nobody wants. Even in established companies, understanding runway, burn rate, and path to profitability determines if you will be employed next month or not. I've seen engineers advocate passionately for technical improvements without understanding whether the company has 6 months or 6 years of runway - that context changes what "important" means.
 
 When you understand the business model, you understand the constraints. You stop proposing architectures that require 12 months of investment when the company needs revenue in 6. You start asking "what's the fastest path to validate this with customers?" instead of "what's the most technically perfect solution?" You speak the language of the people who control the budget.
 
@@ -117,7 +117,7 @@ When you understand the business model, you understand the constraints. You stop
 * Have you ever struggled to give feedback that actually changes behavior?
 * Have you ever watched a meeting derail because someone couldn't handle disagreement?
 
-Your ideas are only as good as your ability to communicate them.  Your technical credibility gets you in the room; but it is your human skills that see your brilliant ideas funded and supported.  These skills should be considered amplifiers for all of the above - maximising on these will always serve you well in everything you do, not just your career.
+Your ideas are only as good as your ability to communicate them.  Your technical credibility gets you in the room; but it is your human skills that see your brilliant ideas funded and supported.  These skills should be considered amplifiers for all of the above - maximising on these will always serve you well in life, not just your career.
 
 Google's [Project Aristotle](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/introduction/) studied 180+ teams over two years and found that psychological safety - not technical skill, not seniority, not co-location - was the strongest predictor of team performance. Teams where people felt safe to take risks, admit mistakes, and challenge ideas outperformed technically brilliant teams that couldn't have difficult conversations.
 
@@ -145,7 +145,7 @@ Your technical credibility gets you in the room. But it's your ability to have c
 
 Being technically great is an asset to any team, but mastering these dimensions? That makes you a force multiplier.  You don't just write better code - you help the entire team and organization deliver better outcomes. 
 
-Whether you're a mid-level engineer looking to grow, a senior aiming for Staff+, or an architect wanting to maximize your influence - this template and these areas can help you amplify your journey.
+Whether you're a mid-level engineer looking to grow, a senior aiming for staff+, or an architect wanting to maximize your influence - this template and these areas can help you amplify your journey.
 
 **This is what separates engineers who contribute from engineers who transform teams.**
 
