@@ -1,8 +1,8 @@
 ---
 title: "The Technical Skills That Got You Here Won't Get You Further"
 date: "2026-01-17"
-thumb_img_path: images/2026/2026-01-17.jpeg 
-content_img_path: images/2026/2026-01-17.jpeg
+thumb_img_path: images/2026/2026-01-17.png 
+content_img_path: images/2026/2026-01-17.png
 excerpt: >-
   Many engineers focus on technical skills to grow their career. But there are four other dimensions that are often overlooked that are just as important.
 template: "post"
