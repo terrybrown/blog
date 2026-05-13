@@ -5,7 +5,7 @@ img_path: images/about.jpg
 template: page
 ---
 
-This CV is also available in [PDF format](/assets/terry-brown-cv-august-2023.pdf).
+This CV is also available in [PDF format](/assets/terry-brown-cv-2026.pdf).
 
 ## Terry Brown
 <table>
@@ -15,17 +15,14 @@ This CV is also available in [PDF format](/assets/terry-brown-cv-august-2023.pdf
    </td>
    <td style="vertical-align: top; text-align: right">07968 765 139 <br />
 terry@hairylemon.net <br />
+<a href="https://www.linkedin.com/in/terrybrownuk/">linkedin.com/in/terrybrownuk</a> <br />
 Pronouns: he/him
    </td>
   </tr>
 </table>
 
 
-_I’m an experienced, empathetic, people-focussed engineering leader, driven by growing high-performing teams, providing purpose, and improving organisational culture.  I have over 25 years of practical experience gained whilst working in engineering, product management, team management, and advisory roles. I coach on management, leadership, culture and software development across various organisations and sectors to both support others, and maximise my growth and knowledge._
-
-_I am motivated by business impact and customer outcomes, and believe that employees in the right environments maximise on delivery of those things. I drive towards a psychologically safe culture, paired with high accountability and autonomy, and foster environments where continuous improvement is important.  I have a strong bias to action when it comes to improvement, be it team, individual, culture, or process._
-
-_I care deeply about a number of other subjects - mental health and suicide, LGBT+, and women in tech, and try to be an active public ally within these spaces._
+_Senior Director of Engineering with 25+ years leading engineering organisations across healthcare, pharma, gaming, and hospitality SaaS. I work at the intersection of platform engineering, security, and people leadership — building the technical foundations businesses need to scale, while creating the environments in which engineers and leaders produce the best work of their careers. I’ve led through rapid growth, M&A integration, major security incidents, EMI licensing, and IPO preparation, bringing the same conviction to each: that psychological safety and high accountability are complements, not trade-offs. Outside my direct line I’m an active speaker on psychological safety and engineering culture, and a coach and mentor to individuals across and beyond my organisations. I care deeply about mental health, LGBT+ inclusion, and women in tech, and try to be an active public ally within these spaces._
 
 
 ## Experience 
@@ -33,26 +30,33 @@ _I care deeply about a number of other subjects - mental health and suicide, LGB
 Leading the Platform & Security Engineering (P&SE) tribe at Mews, a fast-scaling hospitality SaaS company. Responsible for platform engineering, security operations, cloud infrastructure and compliance, whilst driving engineering organisation maturity across R&D more broadly.
 
 Key Achievements:
-* **Delivered over €2M in cumulative annualised savings** across the Platform division (~€1M in 2025, ~€1.4M+ in 2026 YTD). Key initiatives: New Relic → Coralogix observability migration, Cloud Cost OPtimisation (€1.4m), Security tooling consolidation replacing multiple products with Wiz (~€342k/year), Splunk Enterprise replacing Sentinel (~17.35% annual savings), and Confluent Cloud consolidation (~€90k/year). Additionally negotiated a complex Microsoft EA contract (tens of millions).
-* **Led Mews' response to the largest and longest phishing attack in company history**, dedicating time to coordinating internally across Product Security, Platform, and customer-facing teams, whilst managing high-stakes external customer communications with professionalism and calm. Proactively managed upwards to secure resources for threat modelling and defence-in-depth investments, and drove on-call structure improvements across Product Security to enhance response capability.
-* **Built Mews' Security Operations capability from the ground up** — identified a high risk gap in capabilities, built the case, hired a full team, and had them modernise Security Operations at Mews (SIEM, Case Management, and Threat Intelligence platforms). 
-* **achieved "Zero Criticals"** - reducing 86 critical toxic findings to zero within a month. Rebuilt the security team through a period of significant attrition, going from 7 to 3 and back to a stronger team of 7 within six months.
-* **Led the Atlas developer platform to significant maturity and scale**, growing from 10 services in production to 40+, with self-service infrastructure provisioning reduced from days to under 10 minutes. Engaged product engineering teams to drive simultaneous platform maturation and adoption, described by management as "critical to the scalability of Mews."
-* **Primary author of the R&D Career Framework for ICs and Managers**, and a key driver of wider engineering organisation maturity — proposing and driving a company-wide on-call model ("you build it, you run it"), active in architecture modernisation conversations (AMET), and refining the Staff Engineer career framework with a new "Solver" track to enable senior engineering growth beyond an architect role.
+
+_Financial & Commercial Impact_
+* **Delivered over €2M in cumulative annualised savings** across the Platform division (~€1M in 2025, ~€1.4M+ in 2026 YTD) — through cloud cost optimisation, security tooling consolidation (Wiz, ~€342k/year), observability migration (New Relic → Coralogix, ~€744k/year), Splunk/Sentinel consolidation, and Confluent Cloud consolidation. Also negotiated a complex Microsoft EA contract mitigating significant platform stability risk.
+* **Full P&L ownership** of the P&SE division — managing an annual €10m opex budget and €4m headcount budget, with monthly reporting to Finance and R&D leadership and cost-consciousness embedded as a cultural standard across the tribe.
+
+_Security & Compliance_
+* **Led Mews' response to the largest and longest phishing attack in company history**, coordinating internally across Product Security, Platform, and customer-facing teams whilst managing high-stakes external customer communications with professionalism and calm. Proactively secured resources for threat modelling and defence-in-depth investments, and drove on-call structure improvements across Product Security.
+* **Built Mews' Security Operations capability from the ground up** — identified the capability gap, hired an Engineering Manager and IC team, and stood up SIEM, Case Management, and Threat Intelligence platforms. Conducted a comprehensive Wiz security audit surfacing critical vulnerabilities and **achieved "Zero Criticals"** — reducing 86 critical toxic findings to zero within a month. Rebuilt the security team through significant attrition (7 → 3 → stronger team of 7) within six months.
 * **Key driver of EMI, DORA and financial services compliance** — authored multiple compliance procedures, led EMI resilience activities (network isolation/segmentation, capacity management), produced the EMI Compliance Gap Analysis with quantified gaps and target dates, and proactively shaped a DORA-inspired regulatory roadmap. Contributed to Series D, SOX, and SOC2/ISO27001/PCI-DSS roadmap alignment.
-* **Hired, grew, and scaled the P&SE tribe** — building new teams, replacing critical leadership roles, hiring excellent engineering managers, and designing a future security organisational structure to support growth to and beyond IPO. Maintained one of the most effective hiring pipelines at Mews, introducing Loom video outreach, structured interview scripts, and a consistently high-quality candidate experience.
-* **Led platform and security integration for multiple M&A activities**, serving as key stakeholder for many acquisitions, including onsite security posture remediation visits and building durable M&A capability through a structured shadowing approach.
-* **Built a strong coaching and people leadership culture** across P&SE and broader R&D — conducting 20+ skip-levels, introducing the Balint method for group coaching, and coaching individuals well beyond the direct reporting line. Tribe engagement scores reached 8.4, with particularly strong sentiment around Management Support (9.5), Meaningful Work (9.5), Recognition (8.9), and Freedom of Opinions (9.2). Won the Mews annual award for "Never Underestimate the Importance of Humour."
-* **Served as Acting VP of Engineering** during an extended period of VP paternity leave — taking on full P&SE and broader R&D leadership responsibilities in addition to the Senior Director role. Led the Platform Enablement 2026 strategy, coordinating across four tribes and introducing a "platform as product" mindset with customer proximity and co-creation focus. Created the Platform Enablement Maturity Matrix (adopted as input for Tribe Maturity Matrix scoring), and represented full division at numerous offsites as acting VP.
-* **Made the strategic call to migrate from Pulumi to Terraform**, reversing 18 months of prior investment when it became clear the tooling was creating business risk and impeding the ability to move quickly — leading the team through the change with urgency and reassurance, and balancing stakeholder communications through the transition.
+
+_Platform & Technical Leadership_
+* **Led the Atlas developer platform to significant maturity and scale**, growing from 10 services in production to 40+, with self-service infrastructure provisioning reduced from days to under 10 minutes. Engaged product engineering teams to drive simultaneous platform maturation and adoption, described by management as "critical to the scalability of Mews."
+* **Made the strategic call to migrate from Pulumi to Terraform**, reversing 18 months of prior investment when it became clear the tooling was creating business risk and impeding the ability to move quickly — leading the team through the change with urgency and reassurance.
 * **Drove Mews' observability transformation**, orchestrating a rapid POC and migration from New Relic to Coralogix, whilst standing up an Observability Champions programme to embed cultural adoption of modern observability practices across R&D.
-* **Full P&L Control of multiple opex lines** managed an annual €10m opex budget and €4m headcount budget. 
-* **Automated GitHub access and onboarding end-to-end via SSO** — eliminating a fully manual process that generated ~250 requests per year with an average 35-hour wait time from request to completion, saving engineers approximately 8,700 hours of wait time annually and removing a persistent KTLO burden from Platform Engineering.
-* **Authored the Cloud Hosting Agentic Platform vision** — a forward-looking strategy to make our internal developer platform (Atlas) the platform that AI agents build on, and the platform that agents help operate. Pillars include an agentic developer experience eliminating cognitive context-switches for builders, AI SRE agents for autonomous incident investigation and graduated remediation, and an infrastructure knowledge graph connecting Port.io, Coralogix, Terraform state, and Wiz to give agents navigable, real-time understanding of system definition and health. 
+* **Automated GitHub access and onboarding end-to-end via SSO** — eliminating a fully manual process that generated ~250 requests per year with an average 35-hour wait time, saving engineers approximately 8,700 hours of wait time annually.
+* **Authored the Atlas Agentic Platform vision** — a forward-looking strategy to make Atlas the platform that AI agents build on and help operate, with pillars covering agentic developer experience, AI SRE agents for autonomous incident investigation, and an infrastructure knowledge graph connecting Port.io, Coralogix, Terraform state, and Wiz.
+
+_People, Culture & Organisation_
+* **Primary author of the R&D Career Framework for ICs and Managers**, and a key driver of wider engineering organisation maturity — proposing and driving a company-wide on-call model ("you build it, you run it") and refining the Staff Engineer career framework with a new "Solver" track to enable senior engineering growth beyond an architect role.
+* **Hired, grew, and scaled the P&SE tribe** — building new teams, replacing critical leadership roles, hiring excellent engineering managers, and designing a future security organisational structure to support growth to and beyond IPO. Maintained one of the most effective hiring pipelines at Mews, introducing Loom video outreach, structured interview scripts, and a consistently high-quality candidate experience.
+* **Led platform and security integration for multiple M&A activities**, serving as key stakeholder for multiple acquisitions, including onsite security posture remediation visits and building durable M&A capability through a structured shadowing approach.
+* **Built a strong coaching and people leadership culture** across P&SE and broader R&D — conducting 20+ skip-levels, introducing the Balint method for group coaching, and coaching individuals well beyond the direct reporting line. Tribe engagement scores reached 8.4, with Management Support (9.5), Meaningful Work (9.5), and Freedom of Opinions (9.2). Won the Mews annual award for "Never Underestimate the Importance of Humour."
+* **Served as Acting VP of Engineering** during an extended period of VP paternity leave — taking on full P&SE and broader R&D leadership responsibilities. Led the Platform Enablement 2026 strategy, coordinating across four tribes and introducing a "platform as product" mindset with customer proximity and co-creation focus.
 
 
 **Head of Engineering** - Doccla      <span style="float: right;">_Jan 2023 - Sep 2023_</span> <br />
-Supporting strong commercial growth, I was hired to scale and mature the tech organisation and bring about a culture of technical excellence and .
+Supporting strong commercial growth, I was hired to scale and mature the tech organisation and bring about a culture of technical excellence.
 
 Key Achievements:
 * Drove **improvement, adoption, and internal ownership of all code** providing business value which had primarily been provided by external partners, reducing ownership costs and improving quality significantly
@@ -64,7 +68,7 @@ Key Achievements:
 * **Delivery and lead of adoption of ISO 27001**, going from **zero to fully certified in 5 months**, achieving a final audit with zero findings and no improvement needed.  The process saw significant adoption of automation and evidence trail creation to improve information security across the organisation.
 * **Providing Data Protection Officer (DPO) to the whole organisation**, advising on and creating standards to ensure company information governance was prioritised
 
-**Associate Director of Engineering** - Healx	<span style="float: right;">_Sept 2021 - Present_</span> <br />
+**Associate Director of Engineering** - Healx	<span style="float: right;">_Sept 2021 - Jan 2023_</span> <br />
 Hired to help Healx scale their drug discovery pipelines through both people growth and broader technical improvement, with cross-functional tech and scientific teams.  A heavy driver of organisational culture, helping both direct and indirect teams move towards high performing, and accelerating Healx drug discovery efforts.
 
 Key achievements:
@@ -96,7 +100,6 @@ Key achievements:
 *   **Minimised time-to-productive for new employees** by overhauling the staff onboarding process.  It allows new engineers to get up to speed rapidly, and they are **often shipping value within the first week**.
 *   Created an organisational focus on technical excellence by **co-creating the GSK Tech Blog** ([medium.com/gsktech](http://medium.com/gsktech)), giving builder teams a window to **share and amplify the tech culture within GSK**.  This has been **cited in a number of interviews across the organisation as a driver for recruitment**.
 *   Focus on **culture change and growth across the organisation**, spearheading and leading topics within a tech culture network, and **amplifying them to change across thousands of tech employees**.  Topics covered  inclusion and diversity, mental health, management, and leadership.
-*   **Developed an engineering progression framework** (influenced by the Monzo framework) to support conversations around growth for engineers across the tech organisation, which was adopted by many teams.
 
 
 
@@ -108,21 +111,10 @@ Lead architect, engineer, and team management within the bingo division, focusin
 
 Key achievements:
 *   Design and **re-architecture of legacy codebase** into a modern modular multi-tenant solution, **helping the business scale from £10m to £20+m in profits** (on approx £90m revenue).
-*   Significant **driver on a move to cloud** (AWS) from on-prem, initially a ‘lift and shift’ but eventually drove ownership costs down and improved resilience and performance of the site for customers. **Monthly bills settled at around £125k from nearer £160k**.
-*   **Drove the technology to enable the brand to scale** into other countries, helping tombola become **market leaders in Spain and Italy**, and expand upon its UK presence with an Arcade offering.
-*   **Replaced manual releasing** with Continuous Delivery, **reducing MTTR to minutes (previously hours)**, and improving deployment frequency to daily (more regular possible).
-*   Spearheaded efforts to **move from legacy (flash) gaming to modern JavaScript based game development**, I created the new team, and set them up for success, **improving time to market for games**.
-*   Orchestrated improvements that saw total cost of ownership reduce - from **multiple painful customer impacting  incidents per month to a handful per year**.
-*   **Improved delivery processes** moving from waterfall through to minimal waste agile/lean processes - **reducing lead times across all divisions**.
-*   **Improved** significantly upon **Change Failure Rate** with automated testing across the full delivery pipeline that maximised quality.
-*   Delivered a **landslide change in data capture**, logging and monitoring, integrating key products (ELK, New Relic and others), **enabling data-driven decisions across all aspects of the product**.
-
-Data driven examples:
-*   Site performance focus (reduction in response times across the site, uplift in customer transactions, reduction in live site issues).
-*   Improving password reset (**a reduction of 71,000 password reset walkaways** or customer service calls over the period of a year).
-*   Move to login with email (**18% reduction in failed logins, and 32% of customers switch to using it**), 
-*   Chatmods (**Reducing time to support for customer service staff**, and providing them the tools to resolve issues more efficiently). 
-*   Delivery of **push notifications** (the apps were slow to adopt this, and **adoption hit over 80% within the 6months** after launch, providing more timely/targeted information to players).
+*   Significant **driver on a move to cloud** (AWS) from on-prem — drove ownership costs down and improved resilience and performance. **Monthly bills settled at around £125k from nearer £160k**.
+*   **Drove the technology to enable international expansion**, helping tombola become **market leaders in Spain and Italy** and expanding UK presence with an Arcade offering.
+*   **Replaced manual releasing with Continuous Delivery**, reducing MTTR from hours to minutes and improving deployment frequency to daily. Introduced automated testing across the full delivery pipeline, significantly improving Change Failure Rate and reducing customer-impacting incidents from **multiple per month to a handful per year**.
+*   **Delivered data-driven product improvements** by integrating ELK, New Relic and others — enabling measurable decisions across the product. Notable outcomes: **71,000 reduction in password reset walkaways**, 18% reduction in failed logins, and push notification adoption exceeding **80% within six months** of launch.
 
 **Development Team Lead** – Fawthrop McLanders	<span style="float: right;">_Jan 2006 → Aug 2009_</span> <br />
 Team and architecture lead; Build of e-commerce/CRM platform that was rolled out to many clients (ranging from £20k-£200k/annum sales); Led on ‘Microsoft Partner’ accreditation for the products, achieving significant internal cost savings on licensing; Stakeholder and client management.
@@ -134,19 +126,12 @@ Engineering team lead within health informatics; Design and Development on first
 Many ‘early web’ solutions delivered; Unix system administration
 
 
-## Education 
-BSc Computing – Northumbria University
-
-
 ## Public Talks / Workshops
 As part of my own growth, I take the uncomfortable step of delivering talks on subjects I’m passionate about.  This encourages me to research and learn the topic more broadly, but also to maximise the impact of that learning by sharing.  I’ve given talks internally to a number of organisations, and at conferences on a number of topics.
-*   **Psychological Safety** - north east tech leaders user group, SEACON ([youtube link](https://www.youtube.com/watch?v=3uLrWEUlaP0&ab_channel=SEACOMGlobal)), GSK agility conference, and many other internal awareness sessions.  Also ran workshops to supplement  on high-performing behaviours, understanding risk, and manager/leader behaviours.
-*   **Active LGBT+ Ally** - spoken on transgender parenting at panels for NHS Business Authority, Diageo, Scott Logic, and given talks within GSK on transgender parenting and allyship
-*   **DevOps** - a number of talks focussing around the human side of DevOps, to user groups (Leeds, Newcastle), at conferences, and within GSK a part of their journey towards improvement
-*   **Personal Productivity** - delivered talks to north east tech leaders and GSK on maximising personal productivity
-*   **Feedback and Emotional Intelligence** - north east tech leaders and GSK, talks on empathy, emotional intelligence, and effective feedback
-*   **Value Stream Mapping** - internal talks to support GSK transformation around VSM and systems thinking
-*   **Remote Working** - north east tech leaders talk on effective remote working, with particular focus on changes from the pandemic
+*   **Psychological Safety** - north east tech leaders user group, SEACON ([youtube link](https://www.youtube.com/watch?v=3uLrWEUlaP0&ab_channel=SEACOMGlobal)), GSK agility conference, and many other internal awareness sessions.  Also ran workshops on high-performing behaviours, understanding risk, and manager/leader behaviours.
+*   **Active LGBT+ Ally** - spoken on transgender parenting at panels for NHS Business Authority, Diageo, Scott Logic, and within GSK on transgender parenting and allyship.
+*   **Feedback & Emotional Intelligence** - talks on empathy, emotional intelligence, and effective feedback to north east tech leaders and internally at GSK and Healx.
+*   **Further topics** - DevOps (human side) to user groups and conferences; personal productivity; value stream mapping and systems thinking; effective remote working.
 
 
 ## The Human Part
@@ -155,3 +140,7 @@ My other passions in life are my family, and spending time with them.  As my kid
 When I'm not doing these other things, I can generally be found running or cycling - I do both for clubs, and although injury and age have taken away chances of trophies, I still compete with myself, and find it a great outlet for self-challenge.
 
 I also am an aspiring author, and the website at the top ([https://brilliantmanagers.info](https://brilliantmanagers.info)) is the start of a journey for me in creating some tooling and discussion around the fact that everyone deserves a brilliant manager.  The book is still in the “mind maps and scribbled notes” stage at the moment, but if I put it in my CV and talk about it enough, peer pressure will see me have to work on it! :) 
+
+
+## Education 
+BSc Computing – Northumbria University
