@@ -11,11 +11,12 @@ This CV is also available in [PDF format](/assets/terry-brown-cv-2026.pdf).
 <table>
   <tr>
    <td style="vertical-align: top"><a href="https://terrybrown.me">https://terrybrown.me</a>   /  <a href="https://brilliantmanagers.info">https://brilliantmanagers.info</a> / <br />
+   <a href="https://www.linkedin.com/in/terrybrownuk/">linkedin.com/in/terrybrownuk</a> <br />
 <a href="https://managerreadme.com/readme/terry_brown">https://managerreadme.com/readme/terry_brown</a> 
+
    </td>
    <td style="vertical-align: top; text-align: right">07968 765 139 <br />
 terry@hairylemon.net <br />
-<a href="https://www.linkedin.com/in/terrybrownuk/">linkedin.com/in/terrybrownuk</a> <br />
 Pronouns: he/him
    </td>
   </tr>
