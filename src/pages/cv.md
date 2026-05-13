@@ -29,25 +29,23 @@ _Senior Director of Engineering with 25+ years leading engineering organisations
 **Senior Director of Engineering** - Mews      <span style="float: right;">_Sep 2023 - Present_</span> <br />
 Leading the Platform & Security Engineering (P&SE) tribe at Mews, a fast-scaling hospitality SaaS company. Responsible for platform engineering, security operations, cloud infrastructure and compliance, whilst driving engineering organisation maturity across R&D more broadly.
 
-Key Achievements:
-
-_Financial & Commercial Impact_
+<span style="display:inline-block;background:#fbeef0;color:#b03040;padding:2px 9px;border-radius:3px;font-size:0.75em;font-weight:700;text-transform:uppercase;letter-spacing:1px;margin:10px 0 4px 0;border:1px solid #f0c0c5;">Financial &amp; Commercial Impact</span>
 * **Delivered over €2M in cumulative annualised savings** across the Platform division (~€1M in 2025, ~€1.4M+ in 2026 YTD) — through cloud cost optimisation, security tooling consolidation (Wiz, ~€342k/year), observability migration (New Relic → Coralogix, ~€744k/year), Splunk/Sentinel consolidation, and Confluent Cloud consolidation. Also negotiated a complex Microsoft EA contract mitigating significant platform stability risk.
 * **Full P&L ownership** of the P&SE division — managing an annual €10m opex budget and €4m headcount budget, with monthly reporting to Finance and R&D leadership and cost-consciousness embedded as a cultural standard across the tribe.
 
-_Security & Compliance_
+<span style="display:inline-block;background:#fbeef0;color:#b03040;padding:2px 9px;border-radius:3px;font-size:0.75em;font-weight:700;text-transform:uppercase;letter-spacing:1px;margin:10px 0 4px 0;border:1px solid #f0c0c5;">Security &amp; Compliance</span>
 * **Led Mews' response to the largest and longest phishing attack in company history**, coordinating internally across Product Security, Platform, and customer-facing teams whilst managing high-stakes external customer communications with professionalism and calm. Proactively secured resources for threat modelling and defence-in-depth investments, and drove on-call structure improvements across Product Security.
 * **Built Mews' Security Operations capability from the ground up** — identified the capability gap, hired an Engineering Manager and IC team, and stood up SIEM, Case Management, and Threat Intelligence platforms. Conducted a comprehensive Wiz security audit surfacing critical vulnerabilities and **achieved "Zero Criticals"** — reducing 86 critical toxic findings to zero within a month. Rebuilt the security team through significant attrition (7 → 3 → stronger team of 7) within six months.
 * **Key driver of EMI, DORA and financial services compliance** — authored multiple compliance procedures, led EMI resilience activities (network isolation/segmentation, capacity management), produced the EMI Compliance Gap Analysis with quantified gaps and target dates, and proactively shaped a DORA-inspired regulatory roadmap. Contributed to Series D, SOX, and SOC2/ISO27001/PCI-DSS roadmap alignment.
 
-_Platform & Technical Leadership_
+<span style="display:inline-block;background:#fbeef0;color:#b03040;padding:2px 9px;border-radius:3px;font-size:0.75em;font-weight:700;text-transform:uppercase;letter-spacing:1px;margin:10px 0 4px 0;border:1px solid #f0c0c5;">Platform &amp; Technical Leadership</span>
 * **Led the Atlas developer platform to significant maturity and scale**, growing from 10 services in production to 40+, with self-service infrastructure provisioning reduced from days to under 10 minutes. Engaged product engineering teams to drive simultaneous platform maturation and adoption, described by management as "critical to the scalability of Mews."
 * **Made the strategic call to migrate from Pulumi to Terraform**, reversing 18 months of prior investment when it became clear the tooling was creating business risk and impeding the ability to move quickly — leading the team through the change with urgency and reassurance.
 * **Drove Mews' observability transformation**, orchestrating a rapid POC and migration from New Relic to Coralogix, whilst standing up an Observability Champions programme to embed cultural adoption of modern observability practices across R&D.
 * **Automated GitHub access and onboarding end-to-end via SSO** — eliminating a fully manual process that generated ~250 requests per year with an average 35-hour wait time, saving engineers approximately 8,700 hours of wait time annually.
 * **Authored the Atlas Agentic Platform vision** — a forward-looking strategy to make Atlas the platform that AI agents build on and help operate, with pillars covering agentic developer experience, AI SRE agents for autonomous incident investigation, and an infrastructure knowledge graph connecting Port.io, Coralogix, Terraform state, and Wiz.
 
-_People, Culture & Organisation_
+<span style="display:inline-block;background:#fbeef0;color:#b03040;padding:2px 9px;border-radius:3px;font-size:0.75em;font-weight:700;text-transform:uppercase;letter-spacing:1px;margin:10px 0 4px 0;border:1px solid #f0c0c5;">People, Culture &amp; Organisation</span>
 * **Primary author of the R&D Career Framework for ICs and Managers**, and a key driver of wider engineering organisation maturity — proposing and driving a company-wide on-call model ("you build it, you run it") and refining the Staff Engineer career framework with a new "Solver" track to enable senior engineering growth beyond an architect role.
 * **Hired, grew, and scaled the P&SE tribe** — building new teams, replacing critical leadership roles, hiring excellent engineering managers, and designing a future security organisational structure to support growth to and beyond IPO. Maintained one of the most effective hiring pipelines at Mews, introducing Loom video outreach, structured interview scripts, and a consistently high-quality candidate experience.
 * **Led platform and security integration for multiple M&A activities**, serving as key stakeholder for multiple acquisitions, including onsite security posture remediation visits and building durable M&A capability through a structured shadowing approach.
@@ -57,8 +55,6 @@ _People, Culture & Organisation_
 
 **Head of Engineering** - Doccla      <span style="float: right;">_Jan 2023 - Sep 2023_</span> <br />
 Supporting strong commercial growth, I was hired to scale and mature the tech organisation and bring about a culture of technical excellence.
-
-Key Achievements:
 * Drove **improvement, adoption, and internal ownership of all code** providing business value which had primarily been provided by external partners, reducing ownership costs and improving quality significantly
 * **Co-creation and delivery of both a product strategy and cloud strategy** to align digital product delivery to company strategy and goals
 * Built and delivered a **hiring strategy**, and **doubled the size of the tech org**, including the creation of a Cloud Platform and Data teams
@@ -70,8 +66,6 @@ Key Achievements:
 
 **Associate Director of Engineering** - Healx	<span style="float: right;">_Sept 2021 - Jan 2023_</span> <br />
 Hired to help Healx scale their drug discovery pipelines through both people growth and broader technical improvement, with cross-functional tech and scientific teams.  A heavy driver of organisational culture, helping both direct and indirect teams move towards high performing, and accelerating Healx drug discovery efforts.
-
-Key achievements:
 * **Scaled organisation, delivering a hiring strategy, rewrites of hiring and onboarding process** to increase hiring consistency and success, 3-4x growth with 11 successful direct hires, and multiple manager/director hires across the org.  **Created and onboarded a number of new teams** - platform engineering, product engineering, and support more widely to help meet the scaling needs of the organisation.
 * **Delivered cross-tech growth support**, devising, delivering, and open-sourcing a **[career growth framework](https://healx.io/blog/why-it-was-time-for-us-to-launch-a-tech-career-growth-framework/)**, **mentoring and coaching managers**, and mentoring engineers in their career growth.  Delivered supporting guidance, and advised on growth frameworks for Product Management and Design, and I’m now driving growth frameworks for Managers and the broader organisation.
 * **Driver and connector for company strategy** - lead or active on tech strategy group, scaling group, drug matching groups, compliance/QMS, and others.  Active in funding rounds, driving content and presentations for Series C funding.  Providing all of that context to teams to **maximise their commercial and company impact** via OKRs and broader team strategies.
