@@ -37,7 +37,7 @@ To avoid overloading, I've also <img src="/images/emoji/star.png" style="width: 
 * [The Pragmatic Programmer: From journeyman to master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) - a very practical way of looking at software design/delivery, and probably the main book I recommend before books on design patterns/architecture etc.
 
 <img src="/images/emoji/books.png" style="width: 25px" alt="books" />  **Agile Mindset**
-* [Sooner Safer Happier: Antipatterns and Patterns for Business Agility](https://www.goodreads.com/book/show/53925086-sooner-safer-happier) <img src="/images/emoji/star.png" style="width: 25px" alt="star" />- pretty much summarises everything we've learned over the past 20 years of agile in a really accessible book.
+* [Sooner Safer Happier: Antipatterns and Patterns for Business Agility](https://www.goodreads.com/book/show/50343488-sooner-safer-happier) <img src="/images/emoji/star.png" style="width: 25px" alt="star" />- pretty much summarises everything we've learned over the past 20 years of agile in a really accessible book.
 
 <img src="/images/emoji/books.png" style="width: 25px" alt="books" />  **Product Design**
 * [Sprint: How to solve the big problems and test new ideas in just five days](https://www.goodreads.com/book/show/25814544-sprint) - design sprints can be a powerful way to test and validate ideas, so are a useful technique outside of the 'just write code' to help you understand how to rapidly get to 'build the right thing'

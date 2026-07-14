@@ -53,7 +53,7 @@ Understanding systems thinking, flow, and constraints transforms how you approac
 ### Resources
 
 * *[Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems)* - Donella H Meadows
-* *[Sooner Safer Happier](https://www.goodreads.com/book/show/55158005-sooner-safer-happier)* - Jonathan Smart
+* *[Sooner Safer Happier](https://www.goodreads.com/book/show/50343488-sooner-safer-happier)* - Jonathan Smart
 * *[Team Topologies](https://www.goodreads.com/book/show/44135420-team-topologies)* - Manuel Pais and Matthew Skelton
 * *[Accelerate](https://www.goodreads.com/book/show/39080433-accelerate)* - Nicole Forsgren
 * *[Lean Software Development](https://www.goodreads.com/book/show/121076-lean-software-development)* - Mary and Tom Poppendieck
